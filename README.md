@@ -1,9 +1,9 @@
-# Broadcast
+# Broadcast plugin
 
 ## Broadcast plugin Minecraft-palvelimille.
 
 Versio: 1.20-1.20.6
 
 **Oikeudet:**<br>
-Lähetä ilmoitus:<br>
-**broadcast.send**
+    Lähetä ilmoitus: **broadcast.send**
+    Ei muita oikeuksia :D
